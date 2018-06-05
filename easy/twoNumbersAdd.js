@@ -37,3 +37,4 @@ let twoSumHash = (nums, target) => {
     });
 }
 twoSumHash([2, 7, 11, 15], 9)
+    //时间复杂度O(n)
