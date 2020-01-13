@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "leetcode",
+			"path": "."
+		},
+		{
+			"name": "scTest",
+			"path": "/Users/span/code/test/scTest"
+		}
+	],
+	"settings": {
+		"liveServer.settings.port": 5501
+	}
+}
